@@ -73,9 +73,9 @@ body {
 .card {
   background-color: #ffffff;
   padding: 2rem;
-  border-radius: 5px;
+  border-radius: 3px;
   border-top-style: solid;
-  border-top-width: 5px;
+  border-top-width: 3px;
   box-shadow: var(--shadow);
 }
 
