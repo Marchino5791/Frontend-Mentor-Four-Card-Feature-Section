@@ -10,13 +10,7 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -43,10 +37,9 @@ Users should be able to:
 - CSS custom properties
 - Flexbox
 - CSS Grid
-- [Styled Components](https://styled-components.com/) - For styles
+- [Google Fonts](https://fonts.google.com//) - For fonts
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@marchino5791](https://www.frontendmentor.io/profile/marchino5791)
+- LinkedIn - [@Marco Antonio Paolino](https://www.linkedin.com/in/marco-paolino/)
